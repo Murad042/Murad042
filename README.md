@@ -1,4 +1,4 @@
-<img src="/logoOrange.png" alt="banner" />
+<img src="/th.jpg" alt="banner" />
 
 ### Hi there and welcome to my GitHub page 👋
 
@@ -57,7 +57,7 @@ My name is Murad Alili, and I am a data scientist enthusiast from Azerbaijan, Ba
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=murad042&theme=merko&show_icons=true&count_private=true&custom_title=Murad042's+GitHub+Stats&show_icons=true" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=murad042" />
+
 
 
 
