@@ -1,4 +1,4 @@
-<img src="/th.jpg" alt="banner" />
+<img src="/py.png" alt="banner" />
 
 ### Hi there and welcome to my GitHub page 👋
 
