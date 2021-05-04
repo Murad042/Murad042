@@ -1,5 +1,3 @@
-<img src="/py.png" alt="banner" />
-
 ### Hi there and welcome to my GitHub page 👋
 
 My name is Murad Alili, and I am a data scientist enthusiast from Azerbaijan, Baku. I do a lot of things shared with you enthusiastically. 🤞
